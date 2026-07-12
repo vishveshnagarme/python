@@ -29,7 +29,7 @@ def play_scissors():
 
 window = tk.Tk()
 window.title("Rock, Paper, Scissors")
-window.geometry("300x350")
+window.geometry("600x400")
 
 title_label = tk.Label(window, text="Choose your weapon!", font=("Arial", 14))
 title_label.pack(pady=10)
