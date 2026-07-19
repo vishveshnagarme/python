@@ -25,7 +25,7 @@ if the_response.status_code == 200:
     print("Temperature:", the_temperature, "Celsius")
     print("Conditions:", the_description)
     print("Humidity:", the_humidity, "%")
-    print(" Visit vishvesh.nagar.me for more such stuff.")
+    print(" Visit github.com/vishveshnagarme/python , vishvesh.nagar.me for more such stuff.")
 
 else:
     print("Oops! Something went wrong!")
